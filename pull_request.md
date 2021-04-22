@@ -1,3 +1,3 @@
-#¿Qué es un pull request?
+# ¿Qué es un pull request?
 
 Un Pull Request es la acción de validar un código que se va a mergear de una rama a otra. En este proceso de validación pueden entrar los factores que queramos: Builds (validaciones automáticas), asignación de código a tareas, validaciones manuales por parte del equipo, despliegues, etc.
