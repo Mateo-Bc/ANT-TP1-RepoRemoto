@@ -23,3 +23,10 @@
 
 - Desarrollador de videojuegos independiente.
 - Baterista de Chayanne.
+
+## Contactos:
+
+- **Número de Teléfono:** 2222222222
+- **Dirección:** La luna.
+- **Instagram:** @2222_22
+- **222:** 2
