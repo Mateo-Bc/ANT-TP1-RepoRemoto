@@ -1,3 +1,5 @@
-# ¿Qué es un pull request?
+# Qué es un pull request?
 
-Un Pull Request es la acción de validar un código que se va a mergear de una rama a otra. En este proceso de validación pueden entrar los factores que queramos: Builds (validaciones automáticas), asignación de código a tareas, validaciones manuales por parte del equipo, despliegues, etc.
+El sistema de control de versiones git, ofrece una solución muy conveniente a la hora de llevar control sobre el desarrollo de un proyecto con el cual podemos ver el progreso del trabajo solo con inspeccionar el cambio realizado en cada commit. Los pull request permiten no solo llevar de forma más ordenada las tareas en la etapa del desarrollo, sino también crear propuestas o cambios que puedan ser integrados posteriormente a dicho proyecto.
+
+Básicamente un pull request es una petición para integrar nuestras propuestas o cambios de código a un proyecto.
