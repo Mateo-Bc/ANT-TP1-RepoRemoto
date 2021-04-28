@@ -27,6 +27,6 @@
 ## Contactos:
 
 - **Número de Teléfono:** 2222222222
-- **Dirección:** Tu casa.
+- **Dirección:** Mi casa.
 - **Instagram:** @2222_22
-- **222:** No.
+- **222:** Si.
