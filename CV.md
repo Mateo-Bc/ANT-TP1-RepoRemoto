@@ -4,26 +4,29 @@
 
 - **Nombre:** Mateo Becette Cura.
 - **DNI:** 22222222.
-- **Fecha de nacimiento:** 25/11/2013.
+- **Fecha de nacimiento:** 15/11/2002.
 
 ## Estudios:
 
-- **Primarios:** No.
-- **Secundarios:** No.
-- **Universitarios:** No.
+- **Primarios:** Nombre de escuela primaria.
+- **Secundarios:** Instituto Técnico Salesiano Villada.
+- **Universitarios:** Harvard.
 - **Extra Curriculares:** No.
-- **Lenguajes:** Masomenos español.
+- **Lenguajes:** Español, Inglés, Francés, Danés, Portugués, Japonés y Tibetano.
 
 ## Experiencia Laboral:
 
-- Nula.
+- Ocho años de experiencia como pasante en McDonalds.
+- Cinco años como programador en el equipo de desarrollo de software de Hellmanns.
 
 ## Actividades e Intereses:
 
-- Youtuber.
+- Desarrollador de videojuegos independiente.
+- Baterista de Chayanne.
 
 ## Contactos:
 
-- **Número de Teléfono:** Si
-- **Dirección:** Mi casa.
-- **Instagram:** @coscu_oficial
+- **Número de Teléfono:** 2222222222
+- **Dirección:** La luna.
+- **Instagram:** @2222_22
+- **222:** 2
