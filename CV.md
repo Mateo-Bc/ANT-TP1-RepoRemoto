@@ -22,11 +22,11 @@
 ## Actividades e Intereses:
 
 - Desarrollador de videojuegos independiente.
-- Baterista de Chayanne.
+- Espectador de videos de youtube.
 
 ## Contactos:
 
 - **Número de Teléfono:** 2222222222
-- **Dirección:** La luna.
+- **Dirección:** Tu casa.
 - **Instagram:** @2222_22
-- **222:** 2
+- **222:** No.
